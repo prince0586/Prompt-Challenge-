@@ -449,44 +449,12 @@ We welcome contributions from the community! Here's how you can help:
 - [ ] API marketplace
 - [ ] Enterprise features
 
-## 🏆 Awards & Recognition
 
-- **Digital India Innovation Award 2024** - Best Agricultural Technology
-- **Viksit Bharat Excellence Award** - Rural Technology Innovation
-- **AI for Good Challenge Winner** - Social Impact Category
 
-## 📞 Support & Community
-
-### Getting Help
-- **Documentation**: Comprehensive guides and tutorials
-- **GitHub Issues**: Bug reports and feature requests
-- **Community Forum**: Join discussions and get help
-- **Email Support**: contact@mandi-setu.com
-
-### Community Links
-- **GitHub**: [https://github.com/your-username/local-helper](https://github.com/your-username/local-helper)
-- **Discord**: Join our developer community
-- **Twitter**: [@LocalHelper](https://twitter.com/localhelper)
-- **LinkedIn**: Follow for updates and news
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Agricultural Community**: For inspiring this solution
-- **Digital India Initiative**: For promoting digital transformation
-- **Open Source Community**: For tools and libraries
-- **Beta Testers**: For valuable feedback and testing
-
-## 📊 Statistics
-
-- **🌾 Farmers Served**: 10,000+
-- **💰 Trade Value Processed**: ₹50 Crores+
-- **🌐 Languages Supported**: 7
-- **📱 Active Users**: 5,000+
-- **⭐ User Satisfaction**: 4.8/5
 
 ---
 
@@ -498,5 +466,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange.svg)](https://en.wikipedia.org/wiki/India)
 [![Viksit Bharat](https://img.shields.io/badge/Viksit-Bharat-green.svg)](https://www.india.gov.in/)
+
 
 </div>
