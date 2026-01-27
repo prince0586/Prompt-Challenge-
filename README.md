@@ -429,27 +429,6 @@ We welcome contributions from the community! Here's how you can help:
 - **Performance**: Optimize application speed
 - **Documentation**: Improve guides and tutorials
 
-## 📈 Roadmap
-
-### Version 2.0 (Q2 2024)
-- [ ] Real-time voice processing
-- [ ] Advanced ML price predictions
-- [ ] Mobile app development
-- [ ] Blockchain integration for transparency
-
-### Version 2.1 (Q3 2024)
-- [ ] IoT sensor integration
-- [ ] Weather-based price predictions
-- [ ] Government scheme integration
-- [ ] Farmer community features
-
-### Version 3.0 (Q4 2024)
-- [ ] Multi-market support
-- [ ] Advanced analytics dashboard
-- [ ] API marketplace
-- [ ] Enterprise features
-
-
 
 
 ## 📄 License
@@ -469,3 +448,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
